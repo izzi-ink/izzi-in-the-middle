@@ -12,7 +12,7 @@ const BlogPreview = ({ entry, widgetFor }) => {
         </div>
         <div className="row">
           <div className="image">
-            <img src={data.image}/>
+            <img src={data.image} />
           </div>
         </div>
         <div className="row content">{widgetFor('body')}</div>
@@ -29,12 +29,7 @@ const ProductPreview = ({ entry, widgetFor }) => {
       <div className="content">
         <div className="meta">
           <h1>{data.title}</h1>
-          <div className="weight">
-            <span>{`${data.weight}kg`}</span>
-          </div>
-          <div className="price">
-            <span>{`€${data.price}`}</span>
-          </div>
+
         </div>
         <div className="body">{widgetFor('body')}</div>
       </div>
@@ -70,11 +65,11 @@ const NavigationPreview = ({ entry }) => {
     <header className="header-primary">
       <div className="logo">
         <a href="/">
-          <img src="/images/logo.svg" alt="Kaldi"/>
+          <img src="/images/logo.svg" alt="Kaldi" />
         </a>
       </div>
       <a className="nav-button">
-        <img src="/images/nav-open.svg" className="open"/>
+        <img src="/images/nav-open.svg" className="open" />
       </a>
       <nav className="navigation" style={{ paddingRight: '40px' }}>
         <ul>
