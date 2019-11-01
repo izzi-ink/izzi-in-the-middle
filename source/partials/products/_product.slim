@@ -6,11 +6,14 @@
     .product-content
       .title
         h3 = product.title
-      .price
-        p 
-          - currency = data.settings.units.currency || '€' 
-          = currency + product.price.to_s 
-      .weight
-        p 
-          - weight = data.settings.units.weight || 'kg'
-          = product.weight.to_s + weight
+
+// Izzi Removes the Price and Weight attributes from the product slim
+
+      //.price
+      //  p 
+      //    - currency = data.settings.units.currency || '€' 
+      //    = currency + product.price.to_s 
+      //.weight
+      //  p 
+      //    - weight = data.settings.units.weight || 'kg'
+      //    = product.weight.to_s + weight
