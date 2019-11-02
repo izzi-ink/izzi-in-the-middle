@@ -1,29 +1,41 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2018-08-18T09:01+02:00
+title: Part 1 You're my Hero!
+date: '2018-08-18T09:01+02:00'
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /images/uploads/news_item-03.jpg
+  How do we architect solutions that turn ordinary users into heroes on their
+  respective journeys?
+image: /images/uploads/quotes-joseph-campbell.png
 ---
+George Lucas credited Joseph Campbell's The Hero with a Thousand Faces (1949), as influencing his Star Wars saga. Can the hero's journey equally influence and inspire UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+## We have power
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Let's be mindful of the power we yield over the adventures (the stories) our heroes, the users experience as they interact with the systems we design and build. 
 
-## A little history
+In short, the Hero's Journey consists of 3 main stages: departure, initiation and return, which Campbell further deconstructs in roughly 10 detailed steps.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+## 10 Detailed Steps
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+> 1. The Ordinary World
+>
+> 2. The Call to Adventure
+>
+> 3. Cross the First Threshold
+>
+> 4. Trials, Friends and Foes
+>
+> 5. Magical Mentor (or the Mentor with Supernatural Aid)
+>
+> 6. Dragon's Lair
+>
+> 7. Moment of Despair
+>
+> 8. Ultimate Treasure
+>
+> 9. Homeward Bound
+>
+> 10. Rebirth & The Champion's Return.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## Our Responsibility
 
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+In this series of blog posts, I'd like to consider each step, as helpful reminder of our approach and its influence on our methodology for designing products that turn ordinary users into heroes!
