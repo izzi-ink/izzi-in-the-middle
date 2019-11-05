@@ -2,8 +2,8 @@
 title: 'You''re my hero! '
 date: 2019-08-01T07:40:49.492Z
 description: >-
-  Let’s look beyond the hero’s journey and learn about the ordinary world of the
-  user.
+  How do we architect solutions that turn ordinary users into heroes on their
+  respective journeys?
 image: /images/uploads/quotes-joseph-campbell.png
 ---
 George Lucas credited Joseph Campbell's The Hero with a Thousand Faces (1949), as influencing his Star Wars saga. Can the hero's journey equally influence and inspire UX Design and Solutions Architecture? Let's look beyond the obvious analogy between [user journeys and the hero's journey](https://velocitypartners.com/blog/why-customer-journey-is-a-heros-journey/). 
